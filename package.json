@@ -13,9 +13,9 @@
     ]
   },
   "dependencies": {
-    "iban": "0.0.10",
-    "text-mask-addons": "^3.7.2",
-    "text-mask-core": "^5.0.2"
+    "iban": "0.0.12",
+    "text-mask-addons": "^3.8.0",
+    "text-mask-core": "^5.1.2"
   },
   "description": "JavaScript function that makes input HTML element accept mask pattern",
   "devDependencies": {
